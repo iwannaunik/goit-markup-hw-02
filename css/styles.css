@@ -30,7 +30,7 @@ h1 {
     letter-spacing: 0.06em;
     text-align: center;
   }
-  button {
+button {
     position: absolute;
     height: 50px;
     width: 200px;
@@ -45,15 +45,14 @@ h1 {
     letter-spacing: 0.06em;
     text-align: center;
   }
-  
-  .feature {
+.feature {
     height: 101px;
     width: 270px;
     left: 215px;
     top: 774px;
     border-radius: undefinedpx;
   }
-  .title {
+.title {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -62,7 +61,7 @@ h1 {
     text-transform: uppercase;
     color: #212121;
   }
-  .text {
+.text {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -70,7 +69,7 @@ h1 {
     letter-spacing: 0.03em;
     color: #757575;
   }
-  h2 {
+h2 {
     color: rgba(33, 33, 33, 1);
     font-size: 36px;
     font-weight: 700;
@@ -78,31 +77,30 @@ h1 {
     letter-spacing: 0.03em;
     text-align: center;
   }
-  .images-html {
+.images-html {
     width: 370px;
     height: 294px;
   }
-  .title-image {
+.title-image {
     font-size: 16px;
     font-weight: 500;
     line-height: 19px;
     letter-spacing: 0.03em;
     color: rgba(33, 33, 33, 1);
   }
-  .text-image {
+.text-image {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
     letter-spacing: 0.03em;
     color: #757575;
   }
-  
-  #footer {
+#footer {
     background-color: #2f303a;
     width: 1600px;
     height: 252px;
   }
-  .logo {
+.logo {
     font-family: Raleway;
     font-size: 26px;
     font-weight: 700;
@@ -110,16 +108,16 @@ h1 {
     letter-spacing: 0.03em;
     text-align: left;
   }
-  .logo-blue {
+.logo-blue {
     color: #2196f3;
   }
-  .logo-white {
+.logo-white {
     color: #ffffff;
   }
-  .logo-black {
+.logo-black {
     color: rgba(0, 0, 0, 1);
   }
-  .line1 {
+.line1 {
     color: rgba(255, 255, 255, 1);
     font-weight: 400;
     font-style: normal;
@@ -127,7 +125,7 @@ h1 {
     line-height: 24px;
     letter-spacing: 0.03em;
   }
-  .line2 {
+.line2 {
     color: rgba(255, 255, 255, 0.6);
     font-weight: 400;
     font-style: normal;
@@ -135,7 +133,7 @@ h1 {
     line-height: 24px;
     letter-spacing: 0.03em;
   }
-  .button1 {
+.button1 {
     height: 38px;
     width: 121px;
     left: 510px;
@@ -149,12 +147,12 @@ h1 {
     text-align: center;
     background-color: rgba(245, 244, 250, 1);
   }
-  .button1:hover {
+.button1:hover {
     color: rgba(255, 255, 255, 1);
     background-color: rgba(33, 150, 243, 1);
     cursor: pointer;
   }
-  .button2 {
+.button2 {
     height: 38px;
     width: 93px;
     left: 639px;
@@ -169,7 +167,7 @@ h1 {
     background-color: rgba(245, 244, 250, 1);
     border: none;
   }
-  .button3 {
+.button3 {
     height: 38px;
     width: 114px;
     left: 740px;
@@ -184,7 +182,7 @@ h1 {
     background-color: rgba(245, 244, 250, 1);
     border: none;
   }
-  .button4 {
+.button4 {
     height: 38px;
     width: 91px;
     left: 862px;
@@ -199,7 +197,7 @@ h1 {
     background-color: rgba(245, 244, 250, 1);
     border: none;
   }
-  .button5 {
+.button5 {
     height: 38px;
     width: 121px;
     left: 961px;
@@ -214,7 +212,7 @@ h1 {
     background-color: rgba(245, 244, 250, 1);
     border: none;
   }
-  .title-image1 {
+.title-image1 {
     color: rgba(33, 33, 33, 1);
     font-size: 18px;
     font-weight: 700;
@@ -222,7 +220,7 @@ h1 {
     letter-spacing: 0.06em;
     text-align: left;
   }
-  .text-image1 {
+.text-image1 {
     color: rgba(117, 117, 117, 1);
     font-size: 16px;
     font-weight: 400;
