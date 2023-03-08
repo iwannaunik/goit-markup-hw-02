@@ -5,19 +5,19 @@ nav {
     line-height: 16px;
     letter-spacing: 0.02em;
   }
-  a:hover.nav1 {
+a:hover.nav1 {
     color: rgba(33, 150, 243, 1);
     cursor: pointer;
   }
-  .nav3 {
+.nav3 {
     color: rgba(117, 117, 117, 1);
   }
-  #header {
+#header {
     background-color: rgba(47, 48, 58, 1);
     height: 600px;
     width: 1600px;
   }
-  h1 {
+h1 {
     position: absolute;
     width: 696px;
     height: 120px;
