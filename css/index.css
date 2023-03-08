@@ -1,0 +1,233 @@
+nav {
+    color: rgba(33, 33, 33, 1);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+  }
+  a:hover.nav1 {
+    color: rgba(33, 150, 243, 1);
+    cursor: pointer;
+  }
+  .nav3 {
+    color: rgba(117, 117, 117, 1);
+  }
+  #header {
+    background-color: rgba(47, 48, 58, 1);
+    height: 600px;
+    width: 1600px;
+  }
+  h1 {
+    position: absolute;
+    width: 696px;
+    height: 120px;
+    left: 452px;
+    top: 280px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-align: center;
+  }
+  button {
+    position: absolute;
+    height: 50px;
+    width: 200px;
+    left: 700px;
+    top: 430px;
+    border-radius: 4px;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(33, 150, 243, 1);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+    text-align: center;
+  }
+  
+  .feature {
+    height: 101px;
+    width: 270px;
+    left: 215px;
+    top: 774px;
+    border-radius: undefinedpx;
+  }
+  .title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+  }
+  .text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+  }
+  h2 {
+    color: rgba(33, 33, 33, 1);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+    text-align: center;
+  }
+  .images-html {
+    width: 370px;
+    height: 294px;
+  }
+  .title-image {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(33, 33, 33, 1);
+  }
+  .text-image {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #757575;
+  }
+  
+  #footer {
+    background-color: #2f303a;
+    width: 1600px;
+    height: 252px;
+  }
+  .logo {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+  }
+  .logo-blue {
+    color: #2196f3;
+  }
+  .logo-white {
+    color: #ffffff;
+  }
+  .logo-black {
+    color: rgba(0, 0, 0, 1);
+  }
+  .line1 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+  }
+  .line2 {
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+  }
+  .button1 {
+    height: 38px;
+    width: 121px;
+    left: 510px;
+    top: 174px;
+    border-radius: 4px;
+    color: rgba(33, 33, 33, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    background-color: rgba(245, 244, 250, 1);
+  }
+  .button1:hover {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(33, 150, 243, 1);
+    cursor: pointer;
+  }
+  .button2 {
+    height: 38px;
+    width: 93px;
+    left: 639px;
+    top: 174px;
+    border-radius: 4px;
+    color: rgba(33, 33, 33, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    background-color: rgba(245, 244, 250, 1);
+    border: none;
+  }
+  .button3 {
+    height: 38px;
+    width: 114px;
+    left: 740px;
+    top: 174px;
+    border-radius: 4px;
+    color: rgba(33, 33, 33, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    background-color: rgba(245, 244, 250, 1);
+    border: none;
+  }
+  .button4 {
+    height: 38px;
+    width: 91px;
+    left: 862px;
+    top: 174px;
+    border-radius: 4px;
+    color: rgba(33, 33, 33, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    background-color: rgba(245, 244, 250, 1);
+    border: none;
+  }
+  .button5 {
+    height: 38px;
+    width: 121px;
+    left: 961px;
+    top: 174px;
+    border-radius: 4px;
+    color: rgba(33, 33, 33, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    background-color: rgba(245, 244, 250, 1);
+    border: none;
+  }
+  .title-image1 {
+    color: rgba(33, 33, 33, 1);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    text-align: left;
+  }
+  .text-image1 {
+    color: rgba(117, 117, 117, 1);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    text-align: left;
+  }
+  
